@@ -8,7 +8,7 @@ h1{
 .orange{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 80px;
 }
@@ -45,4 +45,10 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position:right ;
+}
+.color{
+    color: #df1e7e;
+}
+.lol{
+    color: #df1e7e;
 }
